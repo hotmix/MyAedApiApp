@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAedApiApp</string>
+    <string name="btn_add_list">データ取得</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
